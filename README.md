@@ -1,4 +1,4 @@
-## Hello World 👋, I´m Teodoro Poulson
+## Hello World 👋
 
 <div>
   <a href="https://github.com/Teodoro2006">
